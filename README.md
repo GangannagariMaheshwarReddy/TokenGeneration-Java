@@ -1,4 +1,4 @@
-# 🔐 JWT Authentication using Spring Boot   
+# 🔐 JWT Authentication using Spring Boot ! 
 
 This project demonstrates **JWT (JSON Web Token) based Authentication and Authorization** using Spring Boot and Spring Security.
 
